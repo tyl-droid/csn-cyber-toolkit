@@ -1,91 +1,77 @@
-# {CSN} Cyber Toolkit
+<p align="center">
+  <img src="https://img.shields.io/badge/CSN-Cyber%20Toolkit-0a0a0a?style=for-the-badge&logo=windows&logoColor=white"/>
+</p>
 
-A fully integrated **desktop cybersecurity toolkit** built for defensive operations, awareness, and structured case management.
+<h1 align="center">{CSN} Cyber Toolkit</h1>
 
-Designed as part of the **Community Shield Network (CSN)** initiative, this platform combines multiple security tools into a single GUI application with real-world workflow features.
+<p align="center">
+  <b>Defensive Cybersecurity Platform • Case Management • Awareness Tools</b>
+</p>
 
----
-
-## 🚀 Core Features
-
-- 🛡️ Password Strength Checker  
-- 🔐 File Hash Generator (SHA-256 / MD5)  
-- 🔄 Encoding / Decoding Tool  
-- 📝 Secure Notes System  
-- 🎯 Phishing Awareness Quiz  
-- 🌐 Safe Port Scanner (authorised use only)  
-- 📄 Incident Report Generator  
-- 👤 Login System with Role Permissions  
-- 🔑 2FA Backup Code Manager  
-- 📁 Suspicious File Metadata Checker  
-- 🖥️ Network Device Inventory  
-- 🌍 Website Security Checklist  
-- ⚠️ Vulnerability Tracker  
-- 📊 SIEM-Style Log Viewer  
-- 📂 Case Management System  
-- 🧪 Home-Lab Monitoring  
-- 🌐 Threat Intelligence Links  
-- 🔄 Built-in Auto Updater  
+<p align="center">
+  <img src="https://img.shields.io/badge/Version-1.2-blue?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Platform-Windows-0078D6?style=flat-square"/>
+  <img src="https://img.shields.io/badge/GUI-CustomTkinter-black?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Status-Active-success?style=flat-square"/>
+</p>
 
 ---
 
-## 🖥️ Interface
+## 🧠 Overview
 
-- Custom GUI (CustomTkinter)
-- Terminal-style coloured output
-- Real-time activity logging
-- Sidebar navigation system
-- Role-based access control (User / Analyst / Director)
+**CSN Cyber Toolkit** is a **desktop cybersecurity suite** built for:
 
----
+- 🛡️ Defensive security
+- 📊 Structured case management
+- 🧪 Home-lab monitoring
+- 🎯 Cyber awareness training
 
-## 📦 Installation
-
-1. Download latest version from Releases  
-2. Run installer  
-3. Launch **CSN Cyber Toolkit**
+It combines multiple tools into a **single GUI platform** with real operational workflows — inspired by real-world security environments.
 
 ---
 
-## 🔄 Auto Update System
+## ⚡ Features
 
-The toolkit includes a built-in updater that:
-- Checks latest version from hosted manifest  
-- Downloads new installer  
-- Installs silently  
-- Relaunches updated version  
+### 🔐 Core Security Tools
+- Password Strength Checker  
+- File Hash Generator (SHA-256 / MD5)  
+- Encoding / Decoding Tool  
+- Suspicious File Metadata Checker  
+
+### 🧠 Awareness & Training
+- Phishing Awareness Quiz  
+- Website Security Checklist  
+
+### 📂 Operations & Logging
+- Incident Report Generator  
+- SIEM-Style Log Viewer  
+- Case Management System  
+- Secure Notes  
+
+### 🖥️ Network & Monitoring
+- Safe Port Scanner (authorised use only)  
+- Network Device Inventory  
+- Home-Lab Monitoring  
+
+### 🔑 Security Management
+- Login System with Role Permissions  
+- 2FA Backup Code Manager  
+
+### 🌐 Intelligence
+- Threat Intelligence Feed Links  
+
+### 🔄 System Features
+- Auto Update System  
+- Activity Logging  
+- Multi-coloured Terminal Output  
+- Role-Based Access (User / Analyst / Director)  
 
 ---
 
-## ⚠️ Disclaimer
+## 🖼️ Interface Preview
 
-This software is intended for:
+> *(Add screenshots here for max impact)*
 
-- Educational use  
-- Defensive cybersecurity  
-- Authorised environments only  
-
-Do NOT use this tool on systems you do not own or have explicit permission to assess.
-
-The developer is not responsible for misuse.
-
----
-
-## 🧠 Project Purpose
-
-This project is part of a larger effort to build:
-
-> A structured, ethical cybersecurity ecosystem focused on safety, awareness, and real-world operational workflows.
-
----
-
-## 📌 Version
-
-Current Version: **v1.2**
-
----
-
-## 👤 Author
-
-Tyler Jeffries  
-Community Shield Network (CSN)
+```md
+![Dashboard](screenshots/dashboard.png)
+![Cases](screenshots/cases.png)
