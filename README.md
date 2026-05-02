@@ -73,5 +73,5 @@ It combines multiple tools into a **single GUI platform** with real operational 
 > *(Add screenshots here for max impact)*
 
 ```md
-![Dashboard]<img width="1552" height="819" alt="image" src="https://github.com/user-attachments/assets/827b27fa-ca5b-4292-af75-a004ff7c6fb1" />
+![Dashboard]<img width="1552" height="819" alt="image" src="https://github.com/user-attachments/assets/827b27fa-ca5b-4292-af75-a004ff7c6fb1" />)
 ![Cases](screenshots/cases.png)
